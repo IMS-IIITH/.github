@@ -8,7 +8,7 @@ More features are planned for the upcoming versions.
 
 _Developer Manual_: https://github.com/IMS-IIITH/docs/wiki/
 
-_Issues Page_: https://github.com/IMS-IIITH/frontend/issues
+_Issues Page_: https://github.com/IMS-IIITH/docs/issues
 
 This app was initially developed by [Abhiram Tilak](https://github.com/abhiramtilakiiit), [Bhav Beri](https://github.com/bhavberi), [Jakeer Hussain](https://github.com/jakeer-hussain), [Hemanth Sunkireddy](https://github.com/hemanth-sunkireddy), and [Samyak Mishra](https://github.com/someyuck). \
 It's being further developed and maintained by them and the Institute WebAdmins team. \
