@@ -7,7 +7,7 @@ Students can use the application to submit leave requests, add bank accounts, an
 More features are planned for the upcoming versions.
 
 _Developer Manual_: https://github.com/IMS-IIITH/docs/wiki/ \
-_Issues Page_: https://github.com/IMS-IIITH/frontend/issues
+_Issues Page_: https://github.com/IMS-IIITH/docs/issues
 
 _App Releases_: https://github.com/IMS-IIITH/frontend/releases
 
