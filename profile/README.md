@@ -1,4 +1,4 @@
-# IIIT-H IMS Android Mobile Application
+# My IIIT (H) Android Mobile Application
 
 This app originated as a project for the Design and Analysis of Software Systems (DASS) course in the Spring 2024 semester, guided by Prof. Raghu Reddy. \
 It is currently developed as an Android mobile application, with an iOS version coming soon, dedicated to the IMS (Institute Management System) of IIIT Hyderabad.
