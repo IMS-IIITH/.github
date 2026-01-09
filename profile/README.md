@@ -10,6 +10,8 @@ Faculty and Staff members can view their profile details. This app also features
 
 More features are planned for the upcoming versions.
 
+Website: https://ims-app.iiit.ac.in/
+
 _Developer Manual_: ~https://github.com/IMS-IIITH/docs/wiki/~ https://gitlab.iiit.ac.in/webadmin/docs/-/wikis/home \
 _Issues Page_: ~https://github.com/IMS-IIITH/docs/issues~ https://gitlab.iiit.ac.in/webadmin/docs/-/issues
 
