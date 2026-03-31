@@ -15,7 +15,7 @@ Website: https://ims-app.iiit.ac.in/
 _Developer Manual_: ~https://github.com/IMS-IIITH/docs/wiki/~ https://gitlab.iiit.ac.in/webadmin/docs/-/wikis/home \
 _Issues Page_: ~https://github.com/IMS-IIITH/docs/issues~ https://gitlab.iiit.ac.in/webadmin/docs/-/issues
 
-_App Releases_: ~https://github.com/IMS-IIITH/frontend/releases~
+_App Releases_: ~https://github.com/IMS-IIITH/frontend/releases~ https://ims-app.iiit.ac.in/releases
 
 This app was initially developed by [Abhiram Tilak](https://github.com/abhiramtilakiiit), [Bhav Beri](https://github.com/bhavberi), [Jakeer Hussain](https://github.com/jakeer-hussain), [Hemanth Sunkireddy](https://github.com/hemanth-sunkireddy), and [Samyak Mishra](https://github.com/someyuck). \
 It's being further developed and maintained by them and the Institute WebAdmins team. \
